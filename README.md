@@ -1,10 +1,11 @@
-<h2 align="center">Hi 👋, I'm Trinidad Martí Gutiérrez</h2>
-<br>
-<img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-<br>
-<h4 align="left">A passionate full stack Jr. developer from Chile. Lifelong learner, natural explorer. Junior Full Stack Developer, with knowledge in JavaScript,
+<img src="https://github.com/TrinidadMartiG/TrinidadMartiG/blob/master/Banner%20para%20Twitch%20Portada%20inicio%20Gradiente%20Morado.gif" alt="banner">
+
+---
+
+<h4 align="left">I'm a passionate full stack Jr. developer from Chile. Lifelong learner, natural explorer. Junior Full Stack Developer, with knowledge in JavaScript,
   SQLAlchemy, React, Python, Flask, HTML & CSS. Always seeking new opportunities for personal and professional growth and development. Versatile, proactive, open to change, able to work under pressure, in constant evolution.</h4>
 
+----
 
 - 🌱 I’m currently learning **CS50 from Harvard** and **leveling up my stack of knowledge**
 
