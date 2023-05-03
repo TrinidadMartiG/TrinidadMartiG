@@ -7,7 +7,7 @@
 
 ----
 
-- 🌱 I’m currently learning **CS50 from Harvard** and **leveling up my knowledge on the current stack I'm practicing**
+- 🌱 I’m currently learning **Node Js** and **leveling** up my knowledge on the current stack.
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
