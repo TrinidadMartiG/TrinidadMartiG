@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
-- 💼 https://trinidadmartig.github.io/
+- 💼 <a href="https://trinidadmartig.github.io/ "> Porfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
