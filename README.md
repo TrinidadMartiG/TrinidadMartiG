@@ -2,7 +2,7 @@
 
 ---
 
-<h4 align="left">I'm a passionate full stack Jr. developer from Chile. Lifelong learner, natural explorer. Junior Full Stack Developer, with knowledge in JavaScript, SQL, React, Python, Flask, HTML , CSS, Sass. Always seeking new opportunities for personal and professional growth and development. Versatile, proactive, open to change, able to work under pressure, in constant evolution.</h4>
+<h4 align="left">I'm a passionate full stack Jr. developer from Chile. Lifelong learner, natural explorer. Junior Full Stack Developer, with knowledge in JavaScript, Node.js, SQL, React, Python, Flask, HTML , CSS, Sass. Always seeking new opportunities for personal and professional growth and development. Versatile, proactive, open to change, able to work under pressure, in constant evolution.</h4>
 
 ----
 
