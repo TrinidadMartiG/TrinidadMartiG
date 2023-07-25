@@ -6,7 +6,7 @@
 
 ----
 
-- 🌱 I’m currently learning **Node Js** and **leveling** up my knowledge on the MERN stack.
+- 🌱 I’m currently learning **Advanced python** and **leveling** up my general knowledge.
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
