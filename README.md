@@ -1,4 +1,3 @@
-<img src="https://github.com/TrinidadMartiG/TrinidadMartiG/blob/master/Banner%20para%20Twitch%20Portada%20inicio%20Gradiente%20Morado.gif" alt="banner">
 
 ---
 
