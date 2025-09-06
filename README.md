@@ -2,12 +2,12 @@
 ---
 
 <h4 align="left">
-  I'm a passionate Full Stack Developer and Junior Data Scientist from Chile. I am a lifelong learner and natural explorer. I work daily with JavaScript, SQL, React, Python, Flask, HTML, CSS, relational databases, Jupyter Notebooks, and data analysis with Python. I am certified by Google as an Associate Cloud Engineer. I am always seeking new opportunities for personal and professional growth and development. I am versatile, proactive, open to change, able to work under pressure, and in constant evolution.
+  I'm a Developer from Chile. I am a lifelong learner and natural explorer. Working daily with JavaScript, SQL, React, Python, Flask.I am certified by Google as an Associate Cloud Engineer going for Cloud Dev. I am always seeking new opportunities for personal and professional growth and development. I am versatile, proactive, open to change, able to work under pressure, and in constant evolution.
 </h4>
 
 ----
 
-- 🌱 I’m currently learning more **Data Science** and **leveling** up my general knowledge.
+- 🌱 I’m currently learning more **Python** and **Cloud Computing**.
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
