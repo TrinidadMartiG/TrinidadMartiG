@@ -2,7 +2,7 @@
 ---
 
 <h4 align="left">
-  I'm a Developer from Chile. I am a lifelong learner and natural explorer. Working daily with JavaScript, SQL, React, Python, Flask.I am certified by Google as an Associate Cloud Engineer going for Cloud Dev. I am always seeking new opportunities for personal and professional growth and development. I am versatile, proactive, open to change, able to work under pressure, and in constant evolution.
+  I'm a Developer from Chile. I am a lifelong learner and natural explorer. Working daily with JavaScript, SQL, React, Python, Flask.I am certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. I am always seeking new opportunities for personal and professional growth and development. I am versatile, proactive, open to change, able to work under pressure, and in constant evolution.
 </h4>
 
 ----
