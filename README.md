@@ -7,7 +7,7 @@
 
 ----
 
-- 🌱 I’m currently learning more **Python** and **Cloud Computing**.
+- 🌱 I’m currently learning **Computer Science Theory** and **Cloud Computing**.
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
