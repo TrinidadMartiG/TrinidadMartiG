@@ -7,7 +7,7 @@
 
 ----
 
-- 🌱 I’m currently learning **Computer Science Theory** and **Cloud Computing**.
+- 🌱 I’m currently learning **Computer Science Theory**, **Leveling up my backend and Cloud skills**, and **learning Rust**.
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
