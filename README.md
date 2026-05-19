@@ -2,12 +2,12 @@
 ---
 
 <h4 align="left">
-  I'm a Developer from Chile. I am a lifelong learner and natural explorer. Working daily with JavaScript, SQL, React, Python, Flask.I am certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. I am always seeking new opportunities for personal and professional growth and development. I am versatile, proactive, open to change, able to work under pressure, and in constant evolution.
+  I'm a Developer from Chile. I am a lifelong learner and natural explorer. Working daily as a Full stack dev. I am certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. Doing currently OSSU curriculum
 </h4>
 
 ----
 
-- 🌱 I’m currently learning **Computer Science Theory**, **Leveling up my backend and Cloud skills**, and **learning Rust**.
+- 🌱 I’m currently learning **Computer Science Theory**, **Leveling up my backend and Cloud skills**
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
