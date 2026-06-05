@@ -2,7 +2,7 @@
 ---
 
 <h4 align="left">
-  I'm a Developer from Chile. I am a lifelong learner and natural explorer. Working daily as a backend-dev. I am certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. Doing currently OSSU curriculum
+  I'm a Backend dev from Chile. I am a lifelong learner and natural explorer. Working daily as a backend-dev. I am certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. Doing currently OSSU curriculum
 </h4>
 
 ----
