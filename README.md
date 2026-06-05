@@ -2,12 +2,12 @@
 ---
 
 <h4 align="left">
-  I'm a Backend dev from Chile. I am a lifelong learner and natural explorer. Working daily as a backend-dev. I am certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. Doing currently OSSU curriculum
+  I'm a Backend dev from Chile. Certified by Google as a Professional Cloud Developer & Associate Cloud Engineer. Doing currently OSSU curriculum & working as an AI Agent Engineer. 
 </h4>
 
 ----
 
-- 🌱 I’m currently learning **Computer Science Theory**, **Leveling up my backend and Cloud skills**
+- 🌱 I’m currently learning **Computer Science Theory**, **Getting deep in fundamentals**
 
 - 📫 How to reach me **trinidad.martig@gmail.com**
 
